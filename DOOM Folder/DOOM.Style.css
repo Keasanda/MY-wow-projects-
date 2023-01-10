@@ -1,0 +1,35 @@
+body{
+
+    background-color: darkgray;
+
+}
+
+h1{
+
+    font-family: 'Lobster', cursive;
+    font-size: 150px;
+    margin: 50px;
+    color:green;
+    text-align: center;
+}
+
+.container{
+
+    text-align: center;
+}
+
+
+
+.col-sm{
+
+    font-family: 'Moon Dance', cursive;
+ color: green;
+  font-size: 100px;
+    margin-top: 20px;
+
+}
+
+.pics{
+
+    margin: 50px;
+}
